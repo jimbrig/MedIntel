@@ -1,0 +1,20 @@
+repo_name: jimbrig/MedIntel
+report_id: 1838ec8e5f1b4b3f4614e7018dc70b36
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:58:26+00:00'
+requested_by: jimbrig
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/MedIntel
+  detection_source: Repo Metadata
